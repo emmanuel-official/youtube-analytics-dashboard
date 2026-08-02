@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+youtube_dashboard.db
+.streamlit/secrets.toml
+.env
